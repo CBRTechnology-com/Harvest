@@ -1,0 +1,26 @@
+{
+  "id": "c1756484-c283-4641-a0bb-2d6cf4951ce2",
+  "name": "CBR Harvest Integration",
+  "publisher": "CBR",
+  "brief": "",
+  "description": "",
+  "version": "1.0.0.0",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "capabilities": [],
+  "features": [ "TranslationFile" ],
+  "dependencies": [],
+  "screenshots": [],
+  "showMyCode": true,
+  "platform": "13.0.0.0",
+  "application": "13.0.0.0",
+  "idRange": {
+    "from": 50000,
+    "to": 99999
+  },
+  "runtime": "2.3",
+  "target": "Internal"
+}

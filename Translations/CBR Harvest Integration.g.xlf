@@ -1,0 +1,759 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="en-US" original="CBR Harvest Integration">
+    <body>
+      <group id="body">
+        <trans-unit id="Table 2750497790 - Field 883711285 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Entry No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CBR XML Buffer - Field Entry No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2750497790 - Field 3320823955 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Line No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CBR XML Buffer - Field Line No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2750497790 - Field 1821279055 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Text</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CBR XML Buffer - Field Text - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2750497790 - Field 3391756511 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>XPath</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CBR XML Buffer - Field XPath - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2750497790 - Field 2961552353 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CBR XML Buffer - Field Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2750497790 - Field 1131619133 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Value</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CBR XML Buffer - Field Value - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2750497790 - Field 1789400218 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Level</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CBR XML Buffer - Field Level - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2750497790 - Field 1829104285 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Session ID</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CBR XML Buffer - Field Session ID - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2750497790 - Field 781957042 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>LabelDigest</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CBR XML Buffer - Field LabelDigest - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2750497790 - Field 258691305 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Manufacturer Part No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CBR XML Buffer - Field Manufacturer Part No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2750497790 - Field 1247743551 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>SKU</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CBR XML Buffer - Field SKU - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2750497790 - Field 2638965409 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Checked</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CBR XML Buffer - Field Checked - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2750497790 - Field 1997869518 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Extended Text</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CBR XML Buffer - Field Extended Text - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2750497790 - Field 250248856 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Extended Value</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CBR XML Buffer - Field Extended Value - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2750497790 - Field 3253820360 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Item Line No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CBR XML Buffer - Field Item Line No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1147574717 - Field 1663593181 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Primary Key</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CBR Harvest Setup - Field Primary Key - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1147574717 - Field 3588638757 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Set Content Type</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CBR Harvest Setup - Field Set Content Type - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1147574717 - Field 2442619588 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Set Return Type</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CBR Harvest Setup - Field Set Return Type - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1147574717 - Field 47908037 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Harvest Token Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CBR Harvest Setup - Field Harvest Token Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1147574717 - Field 3196767749 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Harvest Account ID</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CBR Harvest Setup - Field Harvest Account ID - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1147574717 - Field 2133285082 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Harvest Access Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CBR Harvest Setup - Field Harvest Access Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1147574717 - Field 2741934994 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Harvest Invoice Web API</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CBR Harvest Setup - Field Harvest Invoice Web API - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1147574717 - Field 134764339 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Invoice Response File Path</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CBR Harvest Setup - Field Invoice Response File Path - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1147574717 - Field 3568571442 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Default Resource No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CBR Harvest Setup - Field Default Resource No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1147574717 - Action 1215707143 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Get the latest subsciption status</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CBR Harvest Setup - Action Update Subcription Status - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1147574717 - Action 1215707143 - Method 1377591017 - NamedType 95063322" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Updated</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CBR Harvest Setup - Action Update Subcription Status - Method OnAction - NamedType Text003</note>
+        </trans-unit>
+        <trans-unit id="Page 1147574717 - Action 848300707 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Harvest</source>
+          <note from="Developer" annotates="general" priority="2">NLB="YourLanguageCaption"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CBR Harvest Setup - Action HarvestTest - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1147574717 - Action 1935815291 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>stripe</source>
+          <note from="Developer" annotates="general" priority="2">NLB="YourLanguageCaption"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CBR Harvest Setup - Action stripe - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2006039609 - Field 1803033976 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Invoice Entry No</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CBR Harvest Invoice Details - Field Invoice Entry No - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2006039609 - Field 2597253070 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Invoice ID.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CBR Harvest Invoice Details - Field Invoice ID. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2006039609 - Field 3301570430 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>NAV Customer No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CBR Harvest Invoice Details - Field NAV Customer No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2006039609 - Field 100502418 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Client Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CBR Harvest Invoice Details - Field Client Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2006039609 - Field 3087891197 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Line Item</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CBR Harvest Invoice Details - Field Line Item - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2006039609 - Field 2676447399 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Line Item Description</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CBR Harvest Invoice Details - Field Line Item Description - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2006039609 - Field 2704404533 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Quantity</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CBR Harvest Invoice Details - Field Quantity - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2006039609 - Field 2937233469 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Unit Price</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CBR Harvest Invoice Details - Field Unit Price - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2006039609 - Field 636392376 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Amount</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CBR Harvest Invoice Details - Field Amount - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2006039609 - Field 949148548 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Project ID</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CBR Harvest Invoice Details - Field Project ID - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2006039609 - Field 904306078 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Project Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CBR Harvest Invoice Details - Field Project Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2006039609 - Field 2082466019 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Period Start Date</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CBR Harvest Invoice Details - Field Period Start Date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2006039609 - Field 2615791210 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Period End Date</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CBR Harvest Invoice Details - Field Period End Date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2006039609 - Field 219695063 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Issue Date</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CBR Harvest Invoice Details - Field Issue Date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2006039609 - Field 4085727052 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Due Date</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CBR Harvest Invoice Details - Field Due Date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2006039609 - Field 3197070065 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Payment Terms</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CBR Harvest Invoice Details - Field Payment Terms - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2006039609 - Field 1318284911 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Invoice Created Date</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CBR Harvest Invoice Details - Field Invoice Created Date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2006039609 - Field 4198939294 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Currency Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CBR Harvest Invoice Details - Field Currency Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2006039609 - Field 1546017574 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Distinct</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CBR Harvest Invoice Details - Field Distinct - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2006039609 - Field 2244940641 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Resouce Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CBR Harvest Invoice Details - Field Resouce Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2006039609 - Field 3961767479 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Resource No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CBR Harvest Invoice Details - Field Resource No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2006039609 - Field 3568571442 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Default Resource No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CBR Harvest Invoice Details - Field Default Resource No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2006039609 - Field 3048794140 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Invoice No</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CBR Harvest Invoice Details - Field Invoice No - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2006039609 - Field 2642528141 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Harvest Client ID</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CBR Harvest Invoice Details - Field Harvest Client ID - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2006039609 - Property 2019332006" size-unit="char" translate="yes" xml:space="preserve">
+          <source>New,Process,Report,Harvest</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CBR Harvest Invoice Details - Property PromotedActionCategories</note>
+        </trans-unit>
+        <trans-unit id="Page 2006039609 - Control 3048794140 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Harvest Invoice ID</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CBR Harvest Invoice Details - Control Invoice No - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2006039609 - Action 502423214 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Import Harvest Invoices</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CBR Harvest Invoice Details - Action Invoices - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2006039609 - Action 3058300703 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Create Sales Invoice</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CBR Harvest Invoice Details - Action CreateInvoice - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2006039609 - Action 3058300703 - Method 1377591017 - NamedType 3114637384" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Do you want to create the Sales Invoice ?</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CBR Harvest Invoice Details - Action CreateInvoice - Method OnAction - NamedType Text001</note>
+        </trans-unit>
+        <trans-unit id="Table 3796748644 - Field 652819368 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Client ID</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CBR Harvest NAV Cust Mapping - Field Client ID - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3796748644 - Field 3301570430 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>NAV Customer No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CBR Harvest NAV Cust Mapping - Field NAV Customer No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3796748644 - Field 100502418 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Client Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CBR Harvest NAV Cust Mapping - Field Client Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3796748644 - Field 2426650870 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>NAV Customer Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CBR Harvest NAV Cust Mapping - Field NAV Customer Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 879306919 - Field 970416965 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>PK</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CBR StripeSetup - Field PK - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 879306919 - Field 589910880 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Last Synchronized</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CBR StripeSetup - Field Last Synchronized - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3675893914 - Field 415504711 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Id</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CBR StripeCustomer - Field Id - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3675893914 - Field 3643777273 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Account Balance</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CBR StripeCustomer - Field Account Balance - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3675893914 - Field 2250077298 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>VAT Id</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CBR StripeCustomer - Field VAT Id - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3675893914 - Field 3561154705 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Currency</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CBR StripeCustomer - Field Currency - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3675893914 - Field 2442963219 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Delinquent</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CBR StripeCustomer - Field Delinquent - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3675893914 - Field 1285973296 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Email</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CBR StripeCustomer - Field Email - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3675893914 - Field 2961552353 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CBR StripeCustomer - Field Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3675893914 - Field 3168444338 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Address</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CBR StripeCustomer - Field Address - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3675893914 - Field 2306852000 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Address 2</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CBR StripeCustomer - Field Address 2 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3675893914 - Field 1215194884 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Postal Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CBR StripeCustomer - Field Postal Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3675893914 - Field 714791889 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>City</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CBR StripeCustomer - Field City - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3675893914 - Field 269761521 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>State</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CBR StripeCustomer - Field State - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3675893914 - Field 1856816140 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Country</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CBR StripeCustomer - Field Country - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3675893914 - Field 646935216 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Phone</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CBR StripeCustomer - Field Phone - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3675893914 - Field 1460554978 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Token Id</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CBR StripeCustomer - Field Token Id - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2237206475 - Field 415504711 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Id</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CBR StripeProduct - Field Id - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2237206475 - Field 2961552353 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CBR StripeProduct - Field Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2237206475 - Field 1789400218 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Level</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CBR StripeProduct - Field Level - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2999997139 - Field 415504711 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Id</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CBR StripeSubscription - Field Id - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2999997139 - Field 1249475212 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Created</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CBR StripeSubscription - Field Created - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2999997139 - Field 609732096 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Current Period Start</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CBR StripeSubscription - Field Current Period Start - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2999997139 - Field 1303015989 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Current Period End</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CBR StripeSubscription - Field Current Period End - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2999997139 - Field 4264822885 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Subscription Item Id</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CBR StripeSubscription - Field Subscription Item Id - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2999997139 - Field 3470450981 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Ended At</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CBR StripeSubscription - Field Ended At - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2999997139 - Field 4014676298 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Plan Id</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CBR StripeSubscription - Field Plan Id - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2999997139 - Field 2704404533 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Quantity</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CBR StripeSubscription - Field Quantity - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2999997139 - Field 513339096 - Property 62802879" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Evaluation,Active,Past Due,Canceled,Unpaid</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CBR StripeSubscription - Field Status - Property OptionCaption</note>
+        </trans-unit>
+        <trans-unit id="Table 2999997139 - Field 513339096 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Status</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CBR StripeSubscription - Field Status - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2999997139 - Field 117751046 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Trial Start</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CBR StripeSubscription - Field Trial Start - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2999997139 - Field 3228165551 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Trial End</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CBR StripeSubscription - Field Trial End - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2032270491 - Field 415504711 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Id</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CBR StripePlan - Field Id - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2032270491 - Field 459399738 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Product Id</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CBR StripePlan - Field Product Id - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2032270491 - Field 720790368 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Product Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CBR StripePlan - Field Product Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2032270491 - Field 636392376 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Amount</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CBR StripePlan - Field Amount - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2032270491 - Field 3561154705 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Currency</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CBR StripePlan - Field Currency - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2032270491 - Field 2809088769 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Interval</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CBR StripePlan - Field Interval - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2032270491 - Field 2809088769 - Property 62802879" size-unit="char" translate="yes" xml:space="preserve">
+          <source>day,week,month,year</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CBR StripePlan - Field Interval - Property OptionCaption</note>
+        </trans-unit>
+        <trans-unit id="Table 2032270491 - Field 497596288 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Interval count</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CBR StripePlan - Field Interval Count - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2032270491 - Field 2427221028 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Trial Period (Days)</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CBR StripePlan - Field Trial Period Days - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2032270491 - Field 3117446396 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Select</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CBR StripePlan - Field Select - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3108671354 - Field 2333076789 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>PrimaryKey</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CBR RESTWebServiceArguments - Field PrimaryKey - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3108671354 - Field 1953297401 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>RestMethod</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CBR RESTWebServiceArguments - Field RestMethod - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3108671354 - Field 3003898253 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>URL</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CBR RESTWebServiceArguments - Field URL - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3108671354 - Field 467812692 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Accept</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CBR RESTWebServiceArguments - Field Accept - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3108671354 - Field 3411229705 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>ETag</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CBR RESTWebServiceArguments - Field ETag - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3108671354 - Field 3549826426 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>UserName</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CBR RESTWebServiceArguments - Field UserName - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3108671354 - Field 2575460289 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Password</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CBR RESTWebServiceArguments - Field Password - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3108671354 - Field 3926698677 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Blob</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CBR RESTWebServiceArguments - Field Blob - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3677450163 - Method 556864314 - NamedType 1679531756" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Could not get response from the harvest</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit HarvestIntegration - Method GetProducts - NamedType ErrGetProductsFailed</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1490666684 - NamedType 1884388030" size-unit="char" translate="no" xml:space="preserve">
+          <source>0a275fd3-1e06-4980-8925-8b7154197ea7</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit CBR NotificationMgt - NamedType TokTrialNotificationId</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1490666684 - NamedType 1435926325" size-unit="char" translate="no" xml:space="preserve">
+          <source>8747ad38-dcd3-4f2f-979b-d4e746951ba0</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit CBR NotificationMgt - NamedType TokSubscriptionNotificationId</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1490666684 - NamedType 3156658125" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Thank you for trying out the Merge Utility app. Your trial period expires in %1 days. Do you want to get a subscription?</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit CBR NotificationMgt - NamedType TrialExpiresMsg</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1490666684 - NamedType 2875251206" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Your subscription expires in %1 days. The subscription will automatically renew.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit CBR NotificationMgt - NamedType SubscriptionExpiresMsg</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1490666684 - NamedType 2686080628" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The payment of your subscription is %1 days overdue. Please contact us to solve this issue.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit CBR NotificationMgt - NamedType SubscriptionPastDueMsg</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1490666684 - NamedType 338399127" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Your subscription has been canceled. Please buy a new subscription or contact us to solve this issue.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit CBR NotificationMgt - NamedType SubscriptionCanceledMsg</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1490666684 - NamedType 3067237026" size-unit="char" translate="yes" xml:space="preserve">
+          <source>You need a subscription for this feature. Do you want to upgrade?</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit CBR NotificationMgt - NamedType RequiredLevelMsg</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1490666684 - NamedType 1964659098" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Buy subscription...</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit CBR NotificationMgt - NamedType BuySubscriptionActionText</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1490666684 - NamedType 3000684471" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Contact us</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit CBR NotificationMgt - NamedType ContactUsActionText</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 176316305 - Method 2400675204 - NamedType 620062602" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Creation of customer failed.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit CBR StripeWebService - Method CreateCustomer - NamedType ErrCreateCustomerFailed</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 176316305 - Method 1907671471 - NamedType 3787591725" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Update of customer failed.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit CBR StripeWebService - Method UpdateCustomer - NamedType UpdateCustomerFailedErr</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 176316305 - Method 556864314 - NamedType 1679531756" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Could not get available products</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit CBR StripeWebService - Method GetProducts - NamedType ErrGetProductsFailed</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 176316305 - Method 4151482554 - NamedType 3067422164" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Could not get available plans</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit CBR StripeWebService - Method GetPlans - NamedType ErrGetPlansFailed</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 176316305 - Method 3477514169 - NamedType 2818723555" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Could not create subscription</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit CBR StripeWebService - Method CreateSubscription - NamedType CreateSubscriptionFailedErr</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 176316305 - Method 2602873966 - NamedType 1423946227" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Could not update subscription</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit CBR StripeWebService - Method UpdateSubscription - NamedType ErrCreateSubscriptionFailed</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 176316305 - Method 1450895442 - NamedType 1047211501" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Could not get subscription</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit CBR StripeWebService - Method RefreshSubscription - NamedType ErrGetSubscriptionFailed</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2571758001 - NamedType 1029690167" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Could not find JsonToken %1</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit CBR JSONMethods - NamedType JsonTokenNotFoundErr</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2571758001 - NamedType 4113636574" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The Json object is malformed. Could not find Json value %1</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit CBR JSONMethods - NamedType JsonTokenIsNotValueErr</note>
+        </trans-unit>
+        <trans-unit id="Page 2207793778 - Control 837247550 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>From Date</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CBR Harvest Input Date - Control FromDate - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2207793778 - Control 4137594593 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>To Date</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CBR Harvest Input Date - Control ToDate - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1666808014 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source></source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CBR StripePlanSubpart - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3481505097 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>CREATE SUBSCRIPTION</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CBR CreateSubscriptionWizard - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3481505097 - Control 2200828805 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Choose a plan</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CBR CreateSubscriptionWizard - Control Plan - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3481505097 - Control 2200828805 - Property 1968111052" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Choose a subscription plan from the list below</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CBR CreateSubscriptionWizard - Control Plan - Property InstructionalText</note>
+        </trans-unit>
+        <trans-unit id="Page 3481505097 - Control 232331644 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Plans</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CBR CreateSubscriptionWizard - Control Plans - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3481505097 - Control 1994964448 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Customer details</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CBR CreateSubscriptionWizard - Control Customer - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3481505097 - Control 1994964448 - Property 1968111052" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Provide your company details</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CBR CreateSubscriptionWizard - Control Customer - Property InstructionalText</note>
+        </trans-unit>
+        <trans-unit id="Page 3481505097 - Control 3027539163 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Credit card details</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CBR CreateSubscriptionWizard - Control CreditCardInstruction - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3481505097 - Control 3027539163 - Property 1968111052" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Please fill in your credit card details below. They will be safely stored with our payment provider Stripe. No credit card information will be stored in Microsoft Dynamics 365 Business Central;.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CBR CreateSubscriptionWizard - Control CreditCardInstruction - Property InstructionalText</note>
+        </trans-unit>
+        <trans-unit id="Page 3481505097 - Control 873771301 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>All done</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CBR CreateSubscriptionWizard - Control Overview - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3481505097 - Control 873771301 - Property 1968111052" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Click on Finish to create your subscription. Thank you for choosing the Merge Utility app!</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CBR CreateSubscriptionWizard - Control Overview - Property InstructionalText</note>
+        </trans-unit>
+        <trans-unit id="Page 3481505097 - Action 2438272767 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Back</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CBR CreateSubscriptionWizard - Action ActionBack - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3481505097 - Action 914282563 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Next</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CBR CreateSubscriptionWizard - Action ActionNext - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3481505097 - Action 3259912055 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Finish</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CBR CreateSubscriptionWizard - Action ActionFinish - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3481505097 - NamedType 1339492522" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Please select a plan</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CBR CreateSubscriptionWizard - NamedType NoPlanSelectedErr</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3367991900 - Action 1711845481 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Harvest TimeSheet Entries</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension CBR_ExtBusinessManagRolecenter - Action Harvest - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 1885886516 - Control 2036000599 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>From Harvest</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension CBR_Extendsaleslist - Control CAN From Harvest - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 2774212758 - Field 2036000599 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>CAN From Harvest</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension CBR_ExtSalesHeader - Field CAN From Harvest - Property Caption</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>
